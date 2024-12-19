@@ -2,4 +2,4 @@
 
 Lil web app to display world happiness :)
 
-<img src="homepage.jpg">
+<img src="homepage_ire.jpg">
